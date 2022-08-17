@@ -27,6 +27,8 @@ function getRandomHexColor() {
     }, 1000);
   }
   
+
+  
   function onStopGenerateColor() {
     clearInterval(timerId);
   
